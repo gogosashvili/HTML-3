@@ -1,0 +1,73 @@
+.logo {
+	width: 100px;
+	margin-top:  30px;
+	margin-left: 30px;
+}
+nav{
+	margin-top: 25px;
+	margin-left: 30px;
+}
+.banner{
+	width: 90%;
+	margin-top: 30px;
+	margin-left: 30px
+}
+.active a {
+	color: red;
+}
+li{
+	margin-top: 10px;
+}
+
+.facebook-icon  {
+	
+	margin-top: 30px;
+	margin-left: 30px;
+	margin-bottom: 30px;
+	height: 30px;	
+}
+.youtube {
+	margin-top: 30px;
+	margin-left: 30px;
+	margin-bottom: 30px;
+	height: 30px;
+}
+.image {
+	margin-top: 30px;
+	margin-left: 30px;
+}
+.text {
+	margin-top: 30px;
+	margin-left: 30px;
+	vertical-align: top;
+	width: 80%;
+}
+p{
+	margin-top: 10px;
+}
+
+.number {
+	font-size: 50px;
+    color: white;
+	width: 56px;
+	height: 56px;
+	margin-left: 30px;
+	margin-top: 40px;
+ background-color: blue;
+}
+
+.month {
+	margin-top: 0px;
+	margin-left: 30px;
+	font-size: 23px;
+	color: blue;
+}
+
+.tittle {
+	margin-left: 30px;
+	margin-top: 20px;
+}
+
+.info{
+	color: blue;
+}
